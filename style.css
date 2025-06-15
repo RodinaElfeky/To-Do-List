@@ -82,7 +82,7 @@ ul {
 }
 
 .todo-actions .check {
-  color: rgb(4, 125, 4);
+  color: green;
 }
 
 .todo-actions .edit {
